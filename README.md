@@ -1,2 +1,3 @@
 # myrepo
-my repo
+my repo for git commands demonstration 
+
