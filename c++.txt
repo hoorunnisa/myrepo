@@ -1,0 +1,12 @@
+#include<iostream>
+usning namespace std;
+int main()
+{
+int i;
+while(i==0)
+{
+	cout<<i;
+        i++;
+}
+
+}
